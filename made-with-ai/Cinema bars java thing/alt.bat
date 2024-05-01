@@ -1,0 +1,3 @@
+cd dep
+
+java CinemaBars
